@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -25,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
 
-                System.out.println("SSSasdkufhiuqewhfiuheihfiuqh");
+                System.out.println("SSSasdkufhiuqewhfiuheihfiuqadmnfkjdhfqhfh");
+                System.out.println("FUCK");
             }
         });
     }
