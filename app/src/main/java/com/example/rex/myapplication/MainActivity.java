@@ -26,10 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
 
-                System.out.println("SSSasdkufhiuqewhfiuheihfiuqadmnfkjdhfqhfh");
-                System.out.println("FUCasdkfjdifjdifjK");
-
-                System.out.println("WHY IS NOT WORKING");
+                System.out.println("Hi Rex");
             }
         });
     }
