@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
 
                 System.out.println("SSSasdkufhiuqewhfiuheihfiuqadmnfkjdhfqhfh");
-                System.out.println("FUCK");
+                System.out.println("FUCasdkfjdifjdifjK");
             }
         });
     }
