@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 System.out.println("SSSasdkufhiuqewhfiuheihfiuqadmnfkjdhfqhfh");
                 System.out.println("FUCasdkfjdifjdifjK");
 
-                System.out.println("WHY IS NOT WORKING");
+                System.out.println("Hello.");
             }
         });
     }
